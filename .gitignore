@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+
+# Node
+node_modules/
+
+# Data (avoid heavy files)
+*.csv
+*.xlsx
+*.parquet
+*.zip
+*.pkl
+
+# OS
+Thumbs.db
+.DS_Store
